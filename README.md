@@ -1,2 +1,2 @@
 # Part-of-Speech-Tagger-
-Part of Speech Tagger For Yoruba Language using Artificial Neural Network Algorithm
+Part of Speech Tagger For Yoruba Language using Machine Learning Method with Python.
